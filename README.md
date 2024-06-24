@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I'm Bernardo, welcome to my profile 👋
 
 <!--
 **Bernardo0529/Bernardo0529** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
